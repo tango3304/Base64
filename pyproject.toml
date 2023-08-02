@@ -1,0 +1,8 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "tango_base64"
+version = "2023.08.03"
+description = "Base64 Encode And Decode"
